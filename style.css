@@ -450,12 +450,7 @@ footer h5{
     .question-container button{
         width: 100%;
     }
-    .question-container .answer1,
-    .answer2,
-    .answer3,
-    .answer4,
-    .answer5,
-    .answer6{
+    .question-container {
         width: 100%;
     }
     /*EMAIL ADDRESS*/
